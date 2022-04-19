@@ -15,8 +15,7 @@
 * 로그인 화면: BEMCheckBox, DropDown
 * 시간표: Elliotable
 * 게시판: AZSClient
-* 별점뷰: Cosmos
-* 경고창: Loaf
+* 주변 상점: Cosmos, Loaf
 * 로그인: KeychainSwift
 * RxSwift: Action, NSObject+Rx, RxCocoa, RxDataSources,RxKeyboard, RxSwift
 * 네트워킹: Moya/RxSwift, RxAlamofire
