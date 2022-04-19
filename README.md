@@ -1,5 +1,6 @@
 ## Umate
 * 대학교 커뮤니티 앱
+* 프로젝트 링크: https://github.com/KxCoding/UMate
 
 ## Description
 * 대학교 커뮤니티 및 시간표 서비스, 대학교 주변 상점 정보를 제공해주는 앱입니다.
