@@ -28,7 +28,7 @@
 
 ## App Screenshot
 #### 제가 담당한 상점 검색과 상점 리뷰 파트에 대한 스크린샷입니다.
-### 1. Filtering
+### 1. Search & Filtering
 ![Filtering_](https://user-images.githubusercontent.com/79038724/164055173-c7e4cd61-ea5f-4109-b1b9-9676106dd01b.gif)
 
 ### 2. Review
